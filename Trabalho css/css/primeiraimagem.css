@@ -1,0 +1,154 @@
+button:hover{
+  text-decoration: underline;
+}
+
+button{
+
+  left: 1200px;
+  position: absolute;
+  background-color: gray;
+  top: 20px;
+}
+
+.caixa1 {
+  position: relative;
+  height: 60px;
+  background-color: #F8B195;
+  
+}
+
+.Logo {
+  position: absolute;
+  left: 5%;
+  Top:10px;
+  font-family: "Arial";
+  font-size: 40px;
+  
+}
+
+.caixa2 {
+  position: absolute;
+  top: 360px;
+  height: 330px;
+  width: 400px;
+  left: 943px;
+  margin: 3px auto;
+  background-color: #F67280;
+  
+  
+}
+
+.header {
+  position: absolute;
+  left: 40%;
+  Top: 60px;
+  font-family: "Arial";
+  font-size: 40px;
+  
+}
+
+.caixa3 {
+  position: absolute;
+  height: 120px;
+  width: 1335px;
+  top: 220px;
+  left: 7px;
+  background-color: #6C5B7B;
+  margin: 3px auto;
+  
+}
+
+.body{
+  position: absolute;
+  left: 40%;
+  Top:130px;
+  font-family: "Arial";
+  font-size: 40px;
+  
+}
+
+.caixa4 {
+  posicion: absolute;
+  height: 140px;
+  width: 1333px;
+  left: 100px;
+  margin:5px auto;
+  background-color: red;
+  
+}
+
+
+.navigation{
+  position: absolute;
+  left: 40%;
+  Top:125px;
+  font-family: "Arial";
+  font-size: 40px;
+  
+}
+
+.caixa5 {
+  position: absolute;
+  top: 710px;
+  height: 50px;
+  width: 1335px;
+  background-color: #355C70;
+  clear: both;
+  
+}
+
+.footer{
+  position: absolute;
+  left: 50%;
+  Top:15px;
+  font-family: "Arial";
+  font-size: 30px;
+  
+}
+
+.caixa6 {
+  position: absolute;
+  top: 360px;
+  height: 330px;
+  width: 400px;
+  left: 7px;
+  margin: 3px auto;
+  background-color: red;
+  
+  
+}
+
+.header{
+  position: absolute;
+  left: 40%;
+  Top:20px;
+  font-family: "Arial";
+  font-size: 40px;
+  
+}
+
+.caixa7 {
+  position: absolute;
+  top: 360px;
+  height: 330px;
+  width: 400px;
+  left: 478px;
+  margin: 3px auto;
+  background-color: blue;
+}
+  
+.box1 {
+  position: absolute;
+  left: 40%;
+  Top:130px;
+  font-family: "Arial";
+  font-size: 40px; 
+  }
+
+.box2 {
+  position: absolute;
+  left: 40%;
+  Top:130px;
+  font-family: "Arial";
+  font-size: 40px; 
+  }

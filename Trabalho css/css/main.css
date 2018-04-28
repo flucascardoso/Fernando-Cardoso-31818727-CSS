@@ -1,0 +1,105 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.titulo{
+  font-style: 
+}
+
+.una{
+	width:200px ;
+	height:100px;
+}
+
+.img-circle {
+border-radius: 90%;
+}
+
+#imgsvg{
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.foto{
+  flex: 10%;
+  width: 30px;
+  
+}
+
+.texto{
+  flex: 20%;
+  font-size: 15px;
+  padding: 20px;
+  
+}
+
+.foto, .texto{
+  height:340px;
+}
+
+.primeiragrade{
+  display: flex;
+  flex-flow: row wrap;
+  margin: 50px;
+}
+
+.primeiro, .segundo, .terceiro{
+	margin: 20px;
+}
+
+
+.segundograde{
+  display: flex;
+  flex-flow: row wrap;
+  margin: 50px;
+}
+
+.quarto, .quinto, .sexto{
+	margin: 20px;
+}
+
+#container{
+  display: flex;
+  flex-flow: row wrap;
+  
+
+}
+
+.exhtml{
+  flex: 20%;
+  font-size: 15px;
+  padding: 5px;
+  margin: 5px;
+
+  
+
+}
+
+.excss{
+  flex: 20%;
+  font-size: 15px;
+  padding: 5px;
+  margin: 5px;
+  
+
+}
+
+.exjava{
+  flex: 20%;
+  font-size: 15px;
+  padding: 5px;
+  margin: 5px;
+  
+}
+
+.exjson{
+  flex: 20%;
+  font-size: 15px;
+  padding: 5px;
+  margin: 5px;
+  
+}
+
